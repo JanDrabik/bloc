@@ -112,19 +112,19 @@ Celem tej biblioteki jest ułatwienie separacji _prezentacji_ od _logiki bizneso
 
 - [bloc package](https://medium.com/flutter-community/flutter-bloc-package-295b53e95c5c) - Wprowadzenie do pakietu bloc  z wysoko poziomową architekturą i przykładami.
 - [login tutorial with flutter_bloc](https://medium.com/flutter-community/flutter-login-tutorial-with-flutter-bloc-ea606ef701ad) - Jak stworzyć pełny przepływ logowania używając pakietów bloc oraz flutter_bloc.
-- [unit testing with bloc](https://medium.com/@felangelov/unit-testing-with-bloc-b94de9655d86) - Jak przeprowadzać testy jednostkowe bloc'ów stworzonych w poradniku logowania we Flutterze.
+- [unit testing with bloc](https://medium.com/@felangelov/unit-testing-with-bloc-b94de9655d86) - Jak przeprowadzać testy jednostkowe bloc stworzonych w poradniku logowania we Flutterze.
 - [infinite list tutorial with flutter_bloc](https://medium.com/flutter-community/flutter-infinite-list-tutorial-with-flutter-bloc-2fc7a272ec67) - Jak stworzyć nieskończoną listę używając pakietów bloc oraz flutter_bloc.
 - [code sharing with bloc](https://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef) - Jak współdzielić kod pomiędzy aplikacją mobilną napisaną we Flutterze a aplikacją sieciową napisaną w AngularDart.
-- [weather app tutorial with flutter_bloc](https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d) - Jak zbudować aplikację o pogodzie któa wspiera dynamiczne motywy, pociągnij-by-odświeżyć oraz interakcje przy pomocy REST API używając pakietów bloc oraz flutter_bloc.
-- [todos app tutorial with flutter_bloc](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3) - Jak zbudować aplikację To Do używając pakietów bloc oraz flutter_bloc.
+- [weather app tutorial with flutter_bloc](https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d) - Jak zbudować aplikację o pogodzie która wspiera dynamiczne motywy, pociągnij-by-odświeżyć oraz interakcje przy pomocy REST API używając pakietów bloc oraz flutter_bloc.
+- [todos app tutorial with flutter_bloc](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3) - Jak zbudować aplikację 'Do Zrobienia' używając pakietów bloc oraz flutter_bloc.
 - [firebase login tutorial with flutter_bloc](https://medium.com/flutter-community/firebase-login-with-flutter-bloc-47455e6047b0) - Jak zbudować w pełni funkcjonalny przepływ logowania/rejestracji używając pakietów bloc oraz flutter_bloc wraz z Firebase Authentication i Google Sign In.
 - [flutter timer tutorial with flutter_bloc](https://medium.com/flutter-community/flutter-timer-with-flutter-bloc-a464e8332ceb) - Jak stworzyć aplikację czasomierza używając pakietów bloc oraz flutter_bloc.
-- [firestore todos tutorial with flutter_bloc](https://medium.com/flutter-community/firestore-todos-with-flutter-bloc-7b2d5fadcc80) - Jak stworzyć aplikację To Do używając pakietów bloc oraz flutter_bloc która integruje się z Cloud Firestore.
+- [firestore todos tutorial with flutter_bloc](https://medium.com/flutter-community/firestore-todos-with-flutter-bloc-7b2d5fadcc80) - Jak stworzyć aplikację 'Do Zrobienia' używając pakietów bloc oraz flutter_bloc która integruje się z Cloud Firestore.
 
 ## Rozszerzenia
 
-- [IntelliJ](https://plugins.jetbrains.com/plugin/12129-bloc-code-generator) - rozszerza IntelliJ/Android Studio o obsługę biblioteki Bloc i zapewnienie narzędzia dla efektywnego tworzenia Bloc'ów dla aplikacji Flutter i AngularDart.
-- [VSCode](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc#overview) - rozszerza VSCode o obsługę biblioteki Bloc i zapewnia narzędzia dla efektywnego tworzenia Bloc'ów dla aplikacji Flutter i AngularDart.
+- [IntelliJ](https://plugins.jetbrains.com/plugin/12129-bloc-code-generator) - rozszerza IntelliJ/Android Studio o obsługę biblioteki Bloc i zapewnienie narzędzia dla efektywnego tworzenia Bloc dla aplikacji Flutter i AngularDart.
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc#overview) - rozszerza VSCode o obsługę biblioteki Bloc i zapewnia narzędzia dla efektywnego tworzenia Bloc dla aplikacji Flutter i AngularDart.
 
 ## Społeczność
 
@@ -132,28 +132,28 @@ Dowiedz się więcej pod poniższymi linkami, które zostały dodane przy wspó�
 
 ### Pakiety
 
-- [Hydrated Bloc](https://pub.dev/packages/hydrated_bloc) - An extension to the `bloc` state management library which automatically persists and restores `bloc` states, by [Felix Angelov](https://github.com/felangel).
-- [Bloc.js](https://github.com/felangel/bloc.js) - A port of the `bloc` state management library from Dart to JavaScript, by [Felix Angelov](https://github.com/felangel).
-- [Flutter Bloc Extensions](https://pub.dev/packages/flutter_bloc_extensions) - Collection of helper widgets built on top of `flutter_bloc`, by [Ondřej Kunc](https://github.com/OndrejKunc).
-- [Bloc Code Generator](https://pub.dev/packages/bloc_code_generator) - A code generator that makes working with bloc easier, by [Adson Leal](https://github.com/adsonpleal).
-- [Firebase Auth](https://pub.dev/packages/fb_auth) - A Web, Mobile Firebase Auth Plugin, by [Rody Davis](https://github.com/AppleEducate).
-- [Form Bloc](https://pub.dev/packages/form_bloc) - An easy way to create forms with BLoC pattern without writing a lot of boilerplate code, by [Giancarlo](https://github.com/GiancarloCode).
+- [Hydrated Bloc](https://pub.dev/packages/hydrated_bloc) - Rozszerzenie biblioteki zarządzania stanami `bloc` które automatycznie utrzymuje i przywraca stan `bloc`, autorstwa [Felix Angelov](https://github.com/felangel).
+- [Bloc.js](https://github.com/felangel/bloc.js) - Port biblioteki zarządzania stanami `bloc` z języka Dart do JavaScript, autorstwa [Felix Angelov](https://github.com/felangel).
+- [Flutter Bloc Extensions](https://pub.dev/packages/flutter_bloc_extensions) - Kolekcja widżetów pomocniczych zbudowana na pakiecie `flutter_bloc`, autorstwa [Ondřej Kunc](https://github.com/OndrejKunc).
+- [Bloc Code Generator](https://pub.dev/packages/bloc_code_generator) - Generator kodu, który ułatwia pracę z blokiem, autorstwa [Adson Leal](https://github.com/adsonpleal).
+- [Firebase Auth](https://pub.dev/packages/fb_auth) - Plugin do sieciowej oraz mobilnej autoryzacji w Firebase, autorstwa [Rody Davis](https://github.com/AppleEducate).
+- [Form Bloc](https://pub.dev/packages/form_bloc) - Prosty sposób na tworzenie formularzy używając wzorca BLoC bez wielokrotnego powielania kodu, autorstwa [Giancarlo](https://github.com/GiancarloCode).
 
 ### Poradniki Wideo
 
-- [Flutter Bloc Library Tutorial](https://www.youtube.com/watch?v=hTExlt1nJZI) - Introduction to the Bloc Library, by [Reso Coder](https://resocoder.com).
-- [Flutter Youtube Search](https://www.youtube.com/watch?v=BJY8nuYUM7M) - How to build a Youtube Search app which interacts with an API using the bloc and flutter_bloc packages, by [Reso Coder](https://resocoder.com).
-- [Flutter Bloc - AUTOMATIC LOOKUP - v0.20 (and Up), Updated Tutorial](https://www.youtube.com/watch?v=_vOpPuVfmiU) - Updated Tutorial on the Flutter Bloc Package, by [Reso Coder](https://resocoder.com).
-- [Dynamic Theming with flutter_bloc](https://www.youtube.com/watch?v=YYbhkg-W8Mg) - Tutorial on how to use the flutter_bloc package to implement dynamic theming, by [Reso Coder](https://resocoder.com).
-- [Persist Bloc State in Flutter](https://www.youtube.com/watch?v=vSOpZd_FFEY) - Tutorial on how to use the hydrated_bloc package to automatically persist app state, by [Reso Coder](https://resocoder.com).
-- [State Management Foundation](https://www.youtube.com/watch?v=S2KmxzgsTwk&t=731s) - Introduction to state management using the flutter_bloc package, by [Techie Blossom](https://techieblossom.com).
-- [Flutter Football Player Search](https://www.youtube.com/watch?v=S2KmxzgsTwk) - How to build a Football Player Search app which interacts with an API using the bloc and flutter_bloc packages, by [Techie Blossom](https://techieblossom.com).
-- [Learning the Flutter Bloc Package](https://www.youtube.com/watch?v=eAiCPl3yk9A&t=1s) - Learning the flutter_bloc package live, by [Robert Brunhage](https://www.youtube.com/channel/UCSLIg5O0JiYO1i2nD4RclaQ)
-- [Bloc Test Tutorial](https://www.youtube.com/watch?v=S6jFBiiP0Mc) - Tutorial on how to unit test blocs using the bloc_test package, by [Reso Coder](https://resocoder.com).
+- [Flutter Bloc Library Tutorial](https://www.youtube.com/watch?v=hTExlt1nJZI) - Wprowadzenie do biblioteki Bloc, autorstwa [Reso Coder](https://resocoder.com).
+- [Flutter Youtube Search](https://www.youtube.com/watch?v=BJY8nuYUM7M) - Jak zbudować aplikację Youtube Search która ingeruje z API używając pakietów bloc oraz flutter_bloc, autorstwa [Reso Coder](https://resocoder.com).
+- [Flutter Bloc - AUTOMATIC LOOKUP - v0.20 (and Up), Updated Tutorial](https://www.youtube.com/watch?v=_vOpPuVfmiU) - Zaktualizowany poradnik o pakiecie Flutter Bloc, autorstwa [Reso Coder](https://resocoder.com).
+- [Dynamic Theming with flutter_bloc](https://www.youtube.com/watch?v=YYbhkg-W8Mg) - Poradnik jak używać pakietu flutter_bloc do implementacji dynamicznego motywu, autorstwa [Reso Coder](https://resocoder.com).
+- [Persist Bloc State in Flutter](https://www.youtube.com/watch?v=vSOpZd_FFEY) - Poradnik jak używać pakietu hydrated_bloc do automatycznego utrzymywania stanu aplikacji, autorstwa [Reso Coder](https://resocoder.com).
+- [State Management Foundation](https://www.youtube.com/watch?v=S2KmxzgsTwk&t=731s) - Wprowadzenie do zarządzania stanem przy użyciu pakietu flutter_bloc, autorstwa [Techie Blossom](https://techieblossom.com).
+- [Flutter Football Player Search](https://www.youtube.com/watch?v=S2KmxzgsTwk) - Jak zbudować aplikację Football Player Search, która współdziała z interfejsem API używając pakietów bloc oraz flutter_bloc, autorstwa [Techie Blossom](https://techieblossom.com).
+- [Learning the Flutter Bloc Package](https://www.youtube.com/watch?v=eAiCPl3yk9A&t=1s) - Nauka pakietu flutter_bloc na żywo, autorstwa [Robert Brunhage](https://www.youtube.com/channel/UCSLIg5O0JiYO1i2nD4RclaQ)
+- [Bloc Test Tutorial](https://www.youtube.com/watch?v=S6jFBiiP0Mc) - Poradnik jak wykonywać testy jednostkowe używając pakietu bloc_test, autorstwa [Reso Coder](https://resocoder.com).
 
 ### Rozszerzenia
 
-- [Feature Scaffolding for VSCode](https://marketplace.visualstudio.com/items?itemName=KiritchoukC.flutter-clean-architecture) - A VSCode extension inspired by [Reso Coder's](https://resocoder.com) clean architecture tutorials, which helps quickly scaffold features, by [Kiritchouk Clément](https://github.com/KiritchoukC).
+- [Feature Scaffolding for VSCode](https://marketplace.visualstudio.com/items?itemName=KiritchoukC.flutter-clean-architecture) - Rozszerzenie dla VSCode zainspirowane poradnikami o czystej architekturze [Reso Coder's](https://resocoder.com), które ułatwia szybko dodawać funkcje, autorstwa [Kiritchouk Clément](https://github.com/KiritchoukC).
 
 ## Opiekun
 
